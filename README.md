@@ -1,5 +1,5 @@
 # hello-world
-for comm198
+
 Hi!
 My name is Holly, I am a sophomore at Lehigh University majoring in Economics and minoring in journalism and marketing.
 
