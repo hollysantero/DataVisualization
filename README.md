@@ -10,6 +10,10 @@ For my first assignment, I wanted to know how the digital age has affected how t
 For our 360 degree Google Tour assignment, I decided to take a look into the typical day spent by a Lehigh student during 4 o'clocks. Here you will get a tour of E.W. Fairchild-Martindale library and everything else around the library that consumes students during exams. 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/awdIYkvUEB3/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
+For our data scraping project, I used parsehub to collect data about job openings at Lehigh University and created a bar chart to show the offerings by category.
+
+<iframe title="Chart: Lehigh University Job Openings by category" aria-describedby="Currently, there are the most jobs being offered in the Professional/Managerial department" id="datawrapper-chart-zr9tZ" src="//datawrapper.dwcdn.net/zr9tZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="183"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
 
 
 The first pie chart shows the percentage of undergraduate enrollment in the six colleges at Lehigh University in 2017.
