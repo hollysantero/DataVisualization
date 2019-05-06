@@ -3,6 +3,7 @@
 Hi!
 My name is Holly, I am a sophomore at Lehigh University majoring in Economics and minoring in journalism and marketing.
 
+
 For my story-mapping assignment, I decided to show the number of tweets using #PinkFloyd and filter it by follower count. I chose this hashtag because they're the highest selling artist of all time and it's relevant for our data visualization final project.
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="#PinkFloyd by follower count-Copy" src="//www.arcgis.com/apps/Embed/index.html?webmap=2fca7869f5ec4662bff02f0e9e46ea52&extent=-120.0442,12.9945,-23.2766,55.8325&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
 
